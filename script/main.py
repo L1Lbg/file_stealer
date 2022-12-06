@@ -7,7 +7,7 @@ import requests
 
 #HERE, CHANGE YOUR PREFERENCES AND SPECIFICATIONS
 scan_only_principal_dirs = True # I really recommend to change this option to true if you want the script to run a lot faster
-term_searched = 'oriol' # Input here the name of the file(s) you are looking for 
+term_searched = '' # Input here the name of the file(s) you are looking for 
 server_ip = 'http://localhost' # Input here your public Ip where the server is hosted
 server_port = '8000' # Input here your server port, leave it as it is
 server_internal = 'file' # Path inside of the server
