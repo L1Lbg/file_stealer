@@ -13,9 +13,11 @@ Go to the main.py script in the script folder, where you will change some config
 </ul>
 <h3>Attacker side</h3>
 On the other side, you only need to run a command, make sure that in the terminal you are in the folder  
+
 ```
  /file_steal/ 
-``` and run the command 
+```
+and run the command 
 ```
 python manage.py runserver YourServerIP:YourServerPort
 ```
