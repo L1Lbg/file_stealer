@@ -22,6 +22,9 @@ and run the command
 python manage.py runserver YourServerIP:YourServerPort
 ```
 <br>
-You will receive the files on the folder file_stealer/server/file_receiver/files/
+You will receive the files in the folder 
 
+```
+file_stealer/server/file_receiver/files/
+```
 <h4>If you already have Python installed, you only need to download the django module</h4>
