@@ -12,6 +12,7 @@ Go to the main.py script in the script folder, where you will change some config
   <li>The server IP, where the attacker server is being hosted, and below, put the port, which by default is 8000</li>
 </ul>
 <h3>Attacker side</h3>
-On the other side, you only need to run a command, make sure that in the terminal you are in the folder  ``` /file_steal/ ``` and run the command ``` python manage.py runserver YourServerIP:YourServerPort ```
+On the other side, you only need to run a command, make sure that in the terminal you are in the folder  ``` /file_steal/ ``` and run the command ``` python manage.py runserver YourServerIP:YourServerPort <br>
+You will receive the files on the folder file_stealer/server/file_receiver/files/```
 
 <h4>If you already have Python installed, you only need to download the django module</h4>
